@@ -37,4 +37,4 @@
 
 <p>Watch my contribution graph get eaten by the snake</p>
 
-![snake gif](https://github.com/sadiqpatel/sadiqpatel/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/sadiqpatel/sadiqpatel/blob/output/github-contribution-grid-snake.svg)
