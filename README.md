@@ -7,13 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/sadiqpatel98" target="blank"><img src="https://img.shields.io/twitter/follow/sadiqpatel98?logo=twitter&style=for-the-badge" alt="sadiqpatel98" /></a> </p>
 
+- 🔭 I’m currently working on **ITSM**
+
 - 🔭 I’m currently working on **Jetpack Compose**
 
 - 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://sadiqpatel.github.io/portfolio](https://sadiqpatel.github.io/portfolio)
 
-- 💬 Ask me about **Android, IOT, Laravel, PHP, Python,**
+- 💬 Ask me about **Android, IOT, Laravel, PHP, Python, ITSM**
 
 - 📫 How to reach me **sadiqpatel2018@gmail.com**
 
