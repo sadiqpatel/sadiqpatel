@@ -1,21 +1,18 @@
 [![MasterHead](https://plus.unsplash.com/premium_photo-1685086785054-d047cdc0e525?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)](https://sadiqpatel.github.io/portfolio)
 <h1 align="center">Hi 👋, I'm Sadiq Patel</h1>
 <h3 align="center">A Passionate Software Engineer From Canada</h3>
-<img align="right" alt="Coding" width="400" src="https://plus.unsplash.com/premium_photo-1685086785054-d047cdc0e525?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadiqpatel&label=Profile%20views&color=0e75b6&style=flat" alt="sadiqpatel" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sadiqpatel98" target="blank"><img src="https://img.shields.io/twitter/follow/sadiqpatel98?logo=twitter&style=for-the-badge" alt="sadiqpatel98" /></a> </p>
 
-- 🔭 I’m currently working on **ITSM**
+- 🔭 I’m currently working on **Java | Spring Framework | Spring Security**
 
-- 🔭 I’m currently working on **Jetpack Compose**
-
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Jetpack Compose**
 
 - 👨‍💻 All of my projects are available at [https://sadiqpatel.github.io/portfolio](https://sadiqpatel.github.io/portfolio)
 
-- 💬 Ask me about **Android, IOT, Laravel, PHP, Python, ITSM**
+- 💬 Ask me about **Java, Springboot, Android, IOT, Laravel, PHP, Python, ITSM**
 
 - 📫 How to reach me **sadiqpatel2018@gmail.com**
 
