@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://sadiqpatel.github.io/portfolio)
+[![MasterHead](https://plus.unsplash.com/premium_photo-1685086785054-d047cdc0e525?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)](https://sadiqpatel.github.io/portfolio)
 <h1 align="center">Hi 👋, I'm Sadiq Patel</h1>
 <h3 align="center">A Passionate Software Engineer From Canada</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://plus.unsplash.com/premium_photo-1685086785054-d047cdc0e525?q=80&w=1632&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadiqpatel&label=Profile%20views&color=0e75b6&style=flat" alt="sadiqpatel" /> </p>
 
