@@ -34,6 +34,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadiqpatel&" alt="sadiqpatel" /></p>
 
-<p>Watch my contribution graph get eaten by the snake</p>
-
-![snake gif](https://github.com/sadiqpatel/sadiqpatel/blob/output/github-contribution-grid-snake.svg)
